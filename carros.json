@@ -1,3 +1,26 @@
-[
-    {"nome": "kwid", "km": "20"}
-]
+{
+    "1": {
+        "marca": "kwid",
+        "modelo": "white",
+        "ano": 2010,
+        "preco": 300020.0
+    },
+    "2": {
+        "marca": "BYD",
+        "modelo": "dolphin",
+        "ano": 2024,
+        "preco": 150655.69
+    },
+    "3": {
+        "marca": "kwid",
+        "modelo": "black",
+        "ano": 2010,
+        "preco": 60000.0
+    },
+    "4": {
+        "marca": "renault",
+        "modelo": "pale",
+        "ano": 2018,
+        "preco": 400000.0
+    }
+}
