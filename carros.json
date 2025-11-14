@@ -22,5 +22,11 @@
         "modelo": "pale",
         "ano": 2018,
         "preco": 400000.0
+    },
+    "5": {
+        "marca": "gol",
+        "modelo": "golgol",
+        "ano": 2000,
+        "preco": 123121.0
     }
 }
