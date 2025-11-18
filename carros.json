@@ -28,5 +28,17 @@
         "modelo": "golgol",
         "ano": 2000,
         "preco": 123121.0
+    },
+    "6": {
+        "marca": "Kwid",
+        "modelo": "Opala",
+        "ano": 2000,
+        "preco": 200.0
+    },
+    "7": {
+        "marca": "BYD",
+        "modelo": "Dolphin",
+        "ano": 2025,
+        "preco": 340.0
     }
 }
